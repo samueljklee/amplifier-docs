@@ -1,9 +1,9 @@
 site_name: Amplifier
 site_description: A modular AI agent framework with Linux kernel-inspired architecture
 site_url: !ENV [SITE_URL, "https://docs.amplifier.dev"]
-repo_url: https://github.com/microsoft/amplifier
+repo_url: https://github.com/microsoft/amplifier/tree/next
 repo_name: microsoft/amplifier
-edit_uri: edit/main/docs/
+edit_uri: ""
 
 theme:
   name: material
@@ -29,7 +29,6 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
   features:
-    - content.action.edit
     - content.code.copy
     - content.code.annotate
     - navigation.tabs

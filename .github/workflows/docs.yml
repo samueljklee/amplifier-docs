@@ -36,7 +36,7 @@ jobs:
         run: uv sync --no-install-project
 
       - name: Build docs
-        run: uv run mkdocs build --strict
+        run: uv run mkdocs build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

@@ -16,22 +16,22 @@ A modular AI agent framework with Linux kernel-inspired architecture
 <div class="grid">
 
 <div class="card">
-<h3>🔌 Modular by Design</h3>
+<h3>Modular by Design</h3>
 <p>Swap providers (Anthropic, OpenAI, Azure, Ollama), tools, and orchestration strategies without changing your code.</p>
 </div>
 
 <div class="card">
-<h3>🐧 Kernel Philosophy</h3>
+<h3>Kernel Philosophy</h3>
 <p>Tiny, stable core (~2,600 lines) that rarely changes. All features live at the edges as replaceable modules.</p>
 </div>
 
 <div class="card">
-<h3>🤖 Agent Delegation</h3>
+<h3>Agent Delegation</h3>
 <p>Spawn specialized sub-agents for focused tasks. Each agent has its own tools, context, and capabilities.</p>
 </div>
 
 <div class="card">
-<h3>📦 Profile System</h3>
+<h3>Profile System</h3>
 <p>Pre-configured capability sets from minimal to full-featured. Create your own profiles for repeatable workflows.</p>
 </div>
 
@@ -122,17 +122,17 @@ Amplifier provides a rich ecosystem of swappable modules and libraries.
 <div class="grid">
 
 <div class="card">
-<h3>👩‍💻 Developers</h3>
+<h3>Developers</h3>
 <p>Build AI-powered development workflows. Code review, refactoring, debugging, and documentation assistance.</p>
 </div>
 
 <div class="card">
-<h3>🔧 Module Authors</h3>
+<h3>Module Authors</h3>
 <p>Create custom providers, tools, or hooks. Stable contracts make modules independently developable.</p>
 </div>
 
 <div class="card">
-<h3>🏢 Teams</h3>
+<h3>Teams</h3>
 <p>Share profiles and collections across your organization. Consistent AI workflows for everyone.</p>
 </div>
 

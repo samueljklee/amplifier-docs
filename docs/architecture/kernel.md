@@ -71,12 +71,12 @@ mount_plan = {
 
 ### Kernel Non-Goals (Policies)
 
-- ❌ Orchestration strategies
-- ❌ Provider/model selection
-- ❌ Tool behavior or domain rules
-- ❌ Output formatting
-- ❌ Logging destinations
-- ❌ Business defaults
+- Orchestration strategies
+- Provider/model selection
+- Tool behavior or domain rules
+- Output formatting
+- Logging destinations
+- Business defaults
 
 ## Invariants
 

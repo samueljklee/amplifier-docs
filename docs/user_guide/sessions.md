@@ -154,9 +154,9 @@ amplifier session cleanup --days 7
 
 When you resume a session:
 
-- ✅ Conversation history
-- ✅ Session ID
-- ✅ Project context
+- Conversation history
+- Session ID
+- Project context
 
 ### What's Reloaded
 
